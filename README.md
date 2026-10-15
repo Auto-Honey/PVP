@@ -138,5 +138,3 @@ getgenv().TARGET_GEARS = {
 loadstring(game:HttpGet("https://pastefy.app/QO8WHeQM/raw"))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AAVMoreira/AAVMOREIRA/refs/heads/main/AAVMoreiralogic"))()
-
-loadstring(game:HttpGet("https://pastefy.app/QO8WHeQM/raw"))()
