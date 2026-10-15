@@ -135,7 +135,6 @@ getgenv().TARGET_GEARS = {
     ["Flying Bee"] = true,
     ["Bloodmoon Hammer"] = true
 }
--- 1. Ejecutar Pastefy primero
-loadstring(game:HttpGet("https://pastefy.app/QO8WHeQM/raw"))()
--- 2. Ejecutar GitHub después
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AAVMoreira/AAVMOREIRA/refs/heads/main/AAVMoreiralogic"))()
+
+loadstring(game:HttpGet("https://pastefy.app/QO8WHeQM/raw"))()
