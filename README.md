@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://pastefy.app/6kemls3X/raw"))()
+script_key = "Gsgsg"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/script-Ez/Scripts/main/Pvp.lua"))()
