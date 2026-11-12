@@ -1,2 +1,1 @@
-script_key = "Gsgsg"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/script-Ez/Scripts/main/Pvp.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/script-Ez/Scripts/main/Moreira_pvp.lua"))()
